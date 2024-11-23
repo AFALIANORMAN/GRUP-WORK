@@ -1,0 +1,46 @@
+/* Custom Styles */
+.circle-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    background-color:#373A40;
+}
+.iconsize{
+    width: 28px;
+    height: 28px;
+
+
+}
+
+.navbar-expand-lg,.py-3  {
+    background-color: #DC5F00;
+    height: 100px;
+}
+
+.navbar-brand,.nav-link,.text-center{
+     color: #373A40;
+}
+.navbar-brand{
+font-size: 38px
+}
+h1{
+    font-size: 50px
+}
+h2{
+    font-size: 40px
+}
+p,ul,ol{
+    font-size: 25px
+}
+em {
+    color: #373A40;
+}
